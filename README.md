@@ -1,1 +1,2 @@
-# automatic_ticket_vending-
+# Automatic Ticket Vending
+## Ticket Vending Program in openjfx.
